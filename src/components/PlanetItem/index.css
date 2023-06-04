@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.planet-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.name {
+  color: #f8fafc;
+  font-size: 20px;
+}
+
+.description {
+  font-size: 15px;
+  color: #f1f5f9;
+}
